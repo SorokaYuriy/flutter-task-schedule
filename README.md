@@ -18,7 +18,7 @@ Step-2: Go to project root and execute the following command in console to get t
 
     flutter pub get 
     
-Step-3: Run flutter project -
+Step-3: Run flutter project
 
     flutter run
     
